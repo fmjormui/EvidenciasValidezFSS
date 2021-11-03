@@ -1,0 +1,17 @@
+AFC Flow Aleman
+CFA MODEL - ORDINAL
+OBSERVED VARIABLES:
+F1 F2 F3 F4 F5 F6 F7 F8 F9 F10
+Correlation Matrix from File fluir.pcm
+Asymptotic Covariance Matrix from File fluir.ACC 
+Sample Size 882
+Latent Variables: A F
+Relationships:
+F1 F3 F6 F10 = A
+F2 F4 F5 F7 F8 F9 = F
+LISREL Output: ND=3 SC ME=DWLS
+Set the Error Covariance of F7 and F8
+Set the Error Covariance of F8 and F9
+Path Diagram
+End of Problem
+

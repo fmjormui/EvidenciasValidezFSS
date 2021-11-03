@@ -1,0 +1,162 @@
+
+                                DATE: 11/ 1/2021
+                                  TIME: 22:25
+
+
+                                L I S R E L  8.80
+
+                                       BY
+
+                         Karl G. J”reskog & Dag S”rbom
+
+
+
+                    This program is published exclusively by
+                    Scientific Software International, Inc.
+                       7383 N. Lincoln Avenue, Suite 100
+                        Lincolnwood, IL 60712, U.S.A. 
+            Phone: (800)247-6113, (847)675-0720, Fax: (847)675-2140
+        Copyright by Scientific Software International, Inc., 1981-2006 
+          Use of this program is subject to the terms specified in the
+                        Universal Copyright Convention.
+                          Website: www.ssicentral.com
+
+ The following lines were read from file F:\Articulo Fluir\00 Subir\00 Nuevo articulo\Muestra\Analisis\imp.PR2:
+
+ CFA MODEL - ORDINAL
+ OBSERVED VARIABLES:
+ IMP11 IMP12 IMP13
+ Correlation Matrix from File imp.PCM
+ Asymptotic Covariance Matrix from File imp.ACC
+ Sample Size 882
+ Latent Variables: IMP
+ Relationships:
+ IMP11 IMP12 IMP13 = IMP
+ LISREL Output: ND=3 SC ME=DWLS
+ Path Diagram
+ End of Problem
+
+ CFA MODEL - ORDINAL                                                            
+
+         Correlation Matrix      
+
+               IMP11      IMP12      IMP13   
+            --------   --------   --------
+    IMP11      1.000
+    IMP12      0.629      1.000
+    IMP13      0.528      0.765      1.000
+
+
+ CFA MODEL - ORDINAL                                                            
+
+ Parameter Specifications
+
+         LAMBDA-X    
+
+                 IMP
+            --------
+    IMP11          1
+    IMP12          2
+    IMP13          3
+
+         THETA-DELTA 
+
+               IMP11      IMP12      IMP13
+            --------   --------   --------
+                   4          5          6
+ 
+
+
+ CFA MODEL - ORDINAL                                                            
+
+ Number of Iterations =  0
+
+ LISREL Estimates (Robust Diagonally Weighted Least Squares)     
+
+         LAMBDA-X    
+
+                 IMP   
+            --------
+    IMP11      0.658
+             (0.027)
+              23.961
+    IMP12      0.955
+             (0.022)
+              42.603
+    IMP13      0.801
+             (0.024)
+              33.014
+
+         PHI         
+
+                 IMP   
+            --------
+               1.000
+
+         THETA-DELTA 
+
+               IMP11      IMP12      IMP13   
+            --------   --------   --------
+               0.567      0.088      0.358
+             (0.076)    (0.080)    (0.078)
+               7.412      1.104      4.597
+
+         Squared Multiple Correlations for X - Variables         
+
+               IMP11      IMP12      IMP13   
+            --------   --------   --------
+               0.433      0.912      0.642
+
+
+                           Goodness of Fit Statistics
+
+                              Degrees of Freedom = 0
+        Normal Theory Weighted Least Squares Chi-Square = 0.0 (P = 1.000)
+               Satorra-Bentler Scaled Chi-Square = 0.0 (P = 1.000)
+
+                  The Model is Saturated, the Fit is Perfect !
+
+
+ CFA MODEL - ORDINAL                                                            
+
+ Standardized Solution           
+
+         LAMBDA-X    
+
+                 IMP   
+            --------
+    IMP11      0.658
+    IMP12      0.955
+    IMP13      0.801
+
+         PHI                                     
+
+                 IMP   
+            --------
+               1.000
+
+ CFA MODEL - ORDINAL                                                            
+
+ Completely Standardized Solution
+
+         LAMBDA-X    
+
+                 IMP   
+            --------
+    IMP11      0.658
+    IMP12      0.955
+    IMP13      0.801
+
+         PHI                                     
+
+                 IMP   
+            --------
+               1.000
+
+         THETA-DELTA 
+
+               IMP11      IMP12      IMP13   
+            --------   --------   --------
+               0.567      0.088      0.358
+
+                           Time used:    0.016 Seconds

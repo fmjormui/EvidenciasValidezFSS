@@ -1,0 +1,12 @@
+CFA MODEL - ORDINAL
+OBSERVED VARIABLES:
+IMP11 IMP12 IMP13
+Correlation Matrix from File imp.PCM
+Asymptotic Covariance Matrix from File imp.ACC
+Sample Size 882
+Latent Variables: IMP
+Relationships:
+IMP11 IMP12 IMP13 = IMP
+LISREL Output: ND=3 SC ME=DWLS
+Path Diagram
+End of Problem
